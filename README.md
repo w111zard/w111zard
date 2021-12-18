@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w111zard
-- 👀 I’m interested in C++, GameDev
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in C/C++, GameDev, Math, English
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
