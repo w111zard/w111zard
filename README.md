@@ -50,4 +50,4 @@ Telegram: `@dvapac`
 # 🔎 Допольнительно
 
 + [Мой профиль на Stepik](https://stepik.org/users/378069677)
-+ 
++ [VK](https://vk.com/denis.g.specialist)
