@@ -2,7 +2,7 @@
 
 Email: `golosko.denis.job@gmail.com`
 
-Telegram: `@dvapac`
+Telegram: `@denis_g_specilist`
 
 # 👋 Обо мне
 
