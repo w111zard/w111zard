@@ -14,15 +14,13 @@ Telegram: `@denis_g_specialist`
 # 💻 Профессиональные навыки
 + **JavaScript**
 + **Node JS**
++ **SQL, MySQL, PSQL**
 + **C**
 + **Python**
 + **Java**
 + **С++**
 + **GNU/Linux**
 + **Git**
-+ **SQL, MySQL**
-+ **Emacs, VIM**
-+ **GNU Make**
 
 # 🎓 Образование
 
