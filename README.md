@@ -1,9 +1,9 @@
 # 📞 Контакты
 
-+Email: `golosko.denis.job@gmail.com`
-+Telegram: `@denis_g_specialist`
-+[VK](https://vk.com/denis.g.specialist)
-+[Stepik](https://stepik.org/users/378069677)
++ Email: `golosko.denis.job@gmail.com`
++ Telegram: `@denis_g_specialist`
++ [VK](https://vk.com/denis.g.specialist)
++ [Stepik](https://stepik.org/users/378069677)
 
 # 👤 Обо мне
 
