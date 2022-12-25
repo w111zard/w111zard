@@ -1,3 +1,7 @@
+
+![CODEWARS](https://www.codewars.com/users/w111zard/badges/large)
+
+
 # 📞 Контакты
 
 + Email: `golosko.denis.job@gmail.com`
