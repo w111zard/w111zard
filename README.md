@@ -1,5 +1,4 @@
 
-![CODEWARS](https://www.codewars.com/users/w1111zard/badges/large)
 
 
 # 📞 Контакты
