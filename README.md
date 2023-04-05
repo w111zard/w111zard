@@ -27,7 +27,7 @@
 + **PostgreSQL**
 + **MySQL**
 + **Redis**
-+ **MongoDB*
++ **MongoDB**
 + **C**
 + **Python**
 + **Java**
