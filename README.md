@@ -19,11 +19,20 @@
 + **JavaScript**
 + **TypeScript**
 + **Node JS**
-+ **SQL, MySQL, PSQL**
++ **Express.js**
++ **Nest.js**
++ **TypeORM**
++ **Sequelize**
++ **SQL**
++ **PostgreSQL**
++ **MySQL**
++ **Redis**
++ **MongoDB*
 + **C**
 + **Python**
 + **Java**
 + **Git**
++ **Linux**
 
 # 🎓 Образование
 
