@@ -8,7 +8,7 @@
 
 # 👤 About me
 
-Backend Node.js developer
+Backend developer
 
 # 💻 Skills
 + **JavaScript**
