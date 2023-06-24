@@ -8,8 +8,7 @@
 
 # 👤 About me
 
-I'm 19 y.o. I'm a programmer and also a student. I live in Russia, Nizhny Novgorod.
-I love backend.
+Backend Node.js developer
 
 # 💻 Skills
 + **JavaScript**
