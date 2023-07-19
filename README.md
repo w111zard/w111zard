@@ -37,4 +37,4 @@ Speciality: programmer
 
 # 🇬🇧 Languages
 + **Russian**: Native
-+ **English**: Intermediate (B1) 
++ **English**: Intermediate (B2) 
