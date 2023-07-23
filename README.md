@@ -32,6 +32,7 @@ Backend developer
 # 🎓 Education
 
 College: Nizhny Novgorod Radio Engineering College (2019-2023)
+
 Speciality: Information systems and programming
 
 # 🇬🇧 Languages
