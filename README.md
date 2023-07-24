@@ -3,7 +3,7 @@
 
 # 📞 Contacts
 
-+ Email: `golosko.denis.job@gmail.com`
++ Email: `work.golosko.denis@gmail.com`
 + Telegram: `@denis_g_specialist`
 
 # 👤 About me
