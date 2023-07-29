@@ -37,4 +37,4 @@ Speciality: Information systems and programming
 
 # 🇬🇧 Languages
 + **Russian**: Native
-+ **English**: Intermediate (B2) 
++ **English**: Upper-Intermediate (B2) 
