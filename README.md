@@ -8,7 +8,7 @@
 
 # 👤 About me
 
-Backend developer
+Backend developer (Node.js)
 
 # 💻 Skills
 + **JavaScript** <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
