@@ -1,5 +1,4 @@
-
-Software Engineer
+Node.js backend developer
 
 # 📞 Contacts
 
